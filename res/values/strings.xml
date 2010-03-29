@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">SampleApplication</string>
+  <string name="hello1">Hello World, MainActivity!</string>
+  <string name="hello2">hello2</string>
+  <string name="hello3">hello3</string>
+</resources>
